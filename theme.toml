@@ -1,0 +1,16 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "mini"
+license = "MIT"
+licenselink = "https://github.com/pashamray/hugo-theme-mini/blob/master/LICENSE"
+description = "Hugo theme mini"
+homepage = "https://github.com/pashamray/hugo-theme-mini"
+demosite = ""
+tags = ["responsive", "clean", "flexbox", "search", "mobile", "multilingual", "disqus"]
+features = []
+min_version = "0.146.0"
+
+[author]
+  name = "Pavlo Shamrai"
+  homepage = "https://github.com/pashamray/"
