@@ -1,5 +1,4 @@
 body {
-  color: #FFF;
   font-family: sans-serif;
   line-height: 1.5;
   margin: 1rem;
@@ -7,11 +6,11 @@ body {
 }
 
 header {
-  border-bottom: 1px solid #222;
+  border-bottom: 1px solid;
   margin-bottom: 1rem;
 }
 
 footer {
-  border-top: 1px solid #222;
+  border-top: 1px solid;
   margin-top: 1rem;
 }
