@@ -2,3 +2,21 @@ baseURL = "http://localhost:1313/"
 title = "Demo Site"
 languageCode = "en-us"
 
+
+[menu]
+  [[menu.main]]
+    name = "posts"
+    url = "/posts"
+    weight = 1
+  [[menu.main]]
+    name = "projects"
+    url = "/projects"
+    weight = 2
+  [[menu.main]]
+    name = "gists"
+    url = "/gists"
+    weight = 3
+  [[menu.main]]
+    name = "links"
+    url = "/links"
+    weight = 4
